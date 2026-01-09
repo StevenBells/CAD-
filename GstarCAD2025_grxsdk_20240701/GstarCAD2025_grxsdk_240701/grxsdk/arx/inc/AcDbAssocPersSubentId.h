@@ -1,0 +1,12 @@
+﻿/////////////////////////////////////////////////////////////////////////////////////////
+//
+// Please refer to "COPYRIGHT.md" for the relevant copyright statement of this software.
+//
+/////////////////////////////////////////////////////////////////////////////////////////
+//
+#pragma once
+#include "../../inc/GcDbAssocPersSubentId.h"
+#include "acdb.h"
+#ifndef AcDbAssocPersSubentId
+#define AcDbAssocPersSubentId GcDbAssocPersSubentId
+#endif

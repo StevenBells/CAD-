@@ -1,0 +1,15 @@
+﻿/////////////////////////////////////////////////////////////////////////////////////////
+//
+// Please refer to "COPYRIGHT.md" for the relevant copyright statement of this software.
+//
+/////////////////////////////////////////////////////////////////////////////////////////
+//
+#pragma once
+#include "../../inc/gelibver.h"
+
+#include "adesk.h"
+#include "gedll.h"
+
+#ifndef AcGeLibVersion
+#define AcGeLibVersion GcGeLibVersion
+#endif

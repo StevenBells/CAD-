@@ -1,0 +1,13 @@
+﻿/////////////////////////////////////////////////////////////////////////////////////////
+//
+// Please refer to "COPYRIGHT.md" for the relevant copyright statement of this software.
+//
+/////////////////////////////////////////////////////////////////////////////////////////
+//
+#pragma once
+#include "brgbl.h"
+#include "../../../../utils/brep/inc/brm2dctl.h"
+
+#ifndef AcBrMesh2dControl
+#define AcBrMesh2dControl GcBrMesh2dControl
+#endif

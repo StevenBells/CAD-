@@ -1,0 +1,14 @@
+﻿/////////////////////////////////////////////////////////////////////////////////////////
+//
+// Please refer to "COPYRIGHT.md" for the relevant copyright statement of this software.
+//
+/////////////////////////////////////////////////////////////////////////////////////////
+//
+#pragma once
+#include "../../inc/dbDictUtil.h"
+#include "dbdict.h"
+#include "AcString.h"
+
+#ifndef AcDbDictUtil
+#define AcDbDictUtil GcDbDictUtil
+#endif

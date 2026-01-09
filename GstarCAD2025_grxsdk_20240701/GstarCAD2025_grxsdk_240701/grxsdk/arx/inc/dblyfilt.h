@@ -1,0 +1,15 @@
+﻿/////////////////////////////////////////////////////////////////////////////////////////
+//
+// Please refer to "COPYRIGHT.md" for the relevant copyright statement of this software.
+//
+/////////////////////////////////////////////////////////////////////////////////////////
+//
+#pragma once
+#include "dbfilter.h"
+#include "AdAChar.h"
+#include "../../inc/dblyfilt.h"
+
+#ifndef AcDbLayerFilter
+#define AcDbLayerFilter GcDbLayerFilter
+#endif
+

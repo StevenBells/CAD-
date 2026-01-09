@@ -1,0 +1,14 @@
+﻿/////////////////////////////////////////////////////////////////////////////////////////
+//
+// Please refer to "COPYRIGHT.md" for the relevant copyright statement of this software.
+//
+/////////////////////////////////////////////////////////////////////////////////////////
+//
+#pragma once
+#include "../../inc/gepent3d.h"
+
+#include "adesk.h"
+#include "geent3d.h"
+#ifndef AcGePointEnt3d
+#define AcGePointEnt3d GcGePointEnt3d
+#endif

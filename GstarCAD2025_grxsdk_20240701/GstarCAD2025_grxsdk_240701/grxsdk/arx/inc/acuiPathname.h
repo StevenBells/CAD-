@@ -1,0 +1,15 @@
+﻿/////////////////////////////////////////////////////////////////////////////////////////
+//
+// Please refer to "COPYRIGHT.md" for the relevant copyright statement of this software.
+//
+/////////////////////////////////////////////////////////////////////////////////////////
+//
+#pragma once
+#include "../../inc/gcuiPathname.h"
+#ifndef CAcUiPathname
+#define CAcUiPathname CGcUiPathname
+#endif
+
+#ifndef AFILE
+#define AFILE GFILE
+#endif

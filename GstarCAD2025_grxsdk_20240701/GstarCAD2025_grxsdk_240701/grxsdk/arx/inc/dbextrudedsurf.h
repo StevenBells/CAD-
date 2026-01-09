@@ -1,0 +1,13 @@
+﻿/////////////////////////////////////////////////////////////////////////////////////////
+//
+// Please refer to "COPYRIGHT.md" for the relevant copyright statement of this software.
+//
+/////////////////////////////////////////////////////////////////////////////////////////
+//
+#pragma once
+#include "../../inc/dbextrudedsurf.h"
+#include "dbsurf.h"
+
+#ifndef AcDbExtrudedSurface
+#define AcDbExtrudedSurface GcDbExtrudedSurface
+#endif

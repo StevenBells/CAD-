@@ -1,0 +1,15 @@
+﻿/////////////////////////////////////////////////////////////////////////////////////////
+//
+// Please refer to "COPYRIGHT.md" for the relevant copyright statement of this software.
+//
+/////////////////////////////////////////////////////////////////////////////////////////
+//
+#pragma once
+#include "../../inc/dbmstyle.h"
+#include "dbmain.h"
+#include "AdAChar.h"
+
+#ifndef AcDbMlineStyle
+#define AcDbMlineStyle GcDbMlineStyle
+#endif
+

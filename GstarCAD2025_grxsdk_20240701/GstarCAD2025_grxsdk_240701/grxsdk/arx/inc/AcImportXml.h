@@ -1,0 +1,12 @@
+﻿/////////////////////////////////////////////////////////////////////////////////////////
+//
+// Please refer to "COPYRIGHT.md" for the relevant copyright statement of this software.
+//
+/////////////////////////////////////////////////////////////////////////////////////////
+//
+#pragma once
+#include "../../inc/GcImportXml.h"
+#include "adesk.h"
+#ifndef CLSID_DOMDocumentAcad
+#define CLSID_DOMDocumentAcad CLSID_DOMDocumentGcad
+#endif

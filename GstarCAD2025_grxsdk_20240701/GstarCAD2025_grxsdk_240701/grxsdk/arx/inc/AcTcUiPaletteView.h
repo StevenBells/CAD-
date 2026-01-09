@@ -1,0 +1,14 @@
+﻿/////////////////////////////////////////////////////////////////////////////////////////
+//
+// Please refer to "COPYRIGHT.md" for the relevant copyright statement of this software.
+//
+/////////////////////////////////////////////////////////////////////////////////////////
+//
+#pragma once
+#include "../../inc/GcTcUiPaletteView.h"
+#include "AcTcUiCatalogView.h"
+#ifndef CAcTcUiPaletteView
+#define CAcTcUiPaletteView CGcTcUiPaletteView
+#endif
+
+

@@ -1,0 +1,13 @@
+﻿/////////////////////////////////////////////////////////////////////////////////////////
+//
+// Please refer to "COPYRIGHT.md" for the relevant copyright statement of this software.
+//
+/////////////////////////////////////////////////////////////////////////////////////////
+//
+#pragma once
+#include "../../inc/dbSectionSymbol.h"
+#include "dbViewSymbol.h"
+#ifndef AcDbSectionSymbol
+#define AcDbSectionSymbol GcDbSectionSymbol
+#endif
+

@@ -1,0 +1,15 @@
+﻿/////////////////////////////////////////////////////////////////////////////////////////
+//
+// Please refer to "COPYRIGHT.md" for the relevant copyright statement of this software.
+//
+/////////////////////////////////////////////////////////////////////////////////////////
+//
+#pragma once
+#include "../../inc/geoffc2d.h"
+
+#include "gecurv2d.h"
+
+#ifndef AcGeOffsetCurve2d
+#define AcGeOffsetCurve2d GcGeOffsetCurve2d
+#endif
+ 
