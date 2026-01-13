@@ -16,7 +16,7 @@ namespace CAD
         [CommandMethod("FF")]
         public static void AppWindowSize()
         {
-            Document document = Application.DocumentManager.MdiActiveDocument;
+            //Document document = Application.DocumentManager.MdiActiveDocument;
             Application.MainWindow.DeviceIndependentLocation = new Point(1000, 0);
             Application.MainWindow.DeviceIndependentSize = new Size(1000, 1000);
         }
