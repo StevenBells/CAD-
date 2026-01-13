@@ -69,6 +69,7 @@
     <Compile Include="CAD.cs" />
     <Compile Include="Circle-32.cs" />
     <Compile Include="CommandMethod-38.cs" />
+    <Compile Include="CreateViewName-65.cs" />
     <Compile Include="DocumentWindowSize-48.cs" />
     <Compile Include="LayerTabl-22.cs" />
     <Compile Include="LispFunction-40.cs" />
