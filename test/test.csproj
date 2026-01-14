@@ -69,11 +69,15 @@
     <Compile Include="CAD.cs" />
     <Compile Include="Circle-32.cs" />
     <Compile Include="CommandMethod-38.cs" />
+    <Compile Include="CreateModelViewport-72.cs" />
     <Compile Include="CreateViewName-65.cs" />
     <Compile Include="DocumentWindowSize-48.cs" />
+    <Compile Include="EraseViewName-67.cs" />
     <Compile Include="LayerTabl-22.cs" />
     <Compile Include="LispFunction-40.cs" />
     <Compile Include="ListEntities-18.cs" />
+    <Compile Include="NewDrawing-81.cs" />
+    <Compile Include="SplitAndIterateModelViewports-77.cs" />
     <Compile Include="test.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ZoomGetView-55.cs" />

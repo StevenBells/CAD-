@@ -26,8 +26,14 @@ namespace CAD
         {
             Application.MainWindow.WindowState = Window.State.Normal;
         }
+
+            [CommandMethod("DD")]
+            public static void NewDrawing()
+            {
+                string dwt = "gcad.dwt";
+                DocumentCollection documentCollection = Application.DocumentManager;
+                Document document = documentCollection.Add(dwt);
+                documentCollection.MdiActiveDocument = document;
+            }
     }
-
-
-
 }
