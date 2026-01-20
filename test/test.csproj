@@ -73,13 +73,20 @@
     <Compile Include="CreateViewName-65.cs" />
     <Compile Include="DocumentWindowSize-48.cs" />
     <Compile Include="EraseViewName-67.cs" />
+    <Compile Include="GetArea-110.cs" />
+    <Compile Include="GetPointPolar-105.cs" />
+    <Compile Include="GetValue-103.cs" />
     <Compile Include="LayerTabl-22.cs" />
     <Compile Include="LispFunction-40.cs" />
     <Compile Include="ListEntities-18.cs" />
+    <Compile Include="LockDocument-92.cs" />
     <Compile Include="NewDrawing-81.cs" />
+    <Compile Include="PreferencesSet-95.cs" />
+    <Compile Include="SetSystemVariable-98.cs" />
     <Compile Include="SplitAndIterateModelViewports-77.cs" />
     <Compile Include="test.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WindowsMeunCreate-88.cs" />
     <Compile Include="ZoomGetView-55.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
