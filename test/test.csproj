@@ -74,7 +74,9 @@
     <Compile Include="DocumentWindowSize-48.cs" />
     <Compile Include="EraseViewName-67.cs" />
     <Compile Include="GetArea-110.cs" />
+    <Compile Include="GetKeywords-118.cs" />
     <Compile Include="GetPointPolar-105.cs" />
+    <Compile Include="GetUserInput-113.cs" />
     <Compile Include="GetValue-103.cs" />
     <Compile Include="LayerTabl-22.cs" />
     <Compile Include="LispFunction-40.cs" />
